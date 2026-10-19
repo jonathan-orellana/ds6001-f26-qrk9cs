@@ -1,0 +1,5 @@
+mysql-connector-python
+psycopg[binary,pool]
+pymongo
+sqlalchemy
+python-dotenv
