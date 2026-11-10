@@ -1,2 +1,6 @@
 
 lab_assignments/lab_assignment6/ds6001databases/.env
+
+# V-Dem CSV exceeds GitHub 100MB limit
+lab_assignments/lab_assignment9/V-Dem-CY-Full+Others-v15.csv
+lab_assignments/lab_assignment9/data/raw/V-Dem-CY-Full+Others-v15.csv
